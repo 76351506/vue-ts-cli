@@ -1,12 +1,12 @@
 <template>
   <div>
-    this is registry
+    this is 404
   </div>
 </template>
 
 <script>
   export default {
-    name: 'Registry',
+    name: 'NotFound'
   };
 </script>
 
